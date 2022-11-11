@@ -1,4 +1,5 @@
 {
   "name": "GoalApp",
-  "displayName": "GoalApp"
+  "displayName": "GoalApp",
+  "backgroundColor": "#1e085a"
 }

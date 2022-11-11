@@ -27,11 +27,9 @@ const App = () => {
   };
 
   const deleteGoalHandler = id => {
-    console.log(id);
     setGoalList(currentGoalList => {
       return currentGoalList.filter(item => item.id !== id);
     });
-    console.log(goalList);
   };
 
   return (
